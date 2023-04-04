@@ -22,7 +22,7 @@ function App() {
               <ListGroup.Item><i class="fa-solid fa-phone"></i> 07754194686</ListGroup.Item>
               <ListGroup.Item><i class="fa-solid fa-envelope"></i> <a target={'_blank'}  rel="noreferrer" href="mailto: huhupaula@yahoo.com">huhupaula@yahoo.com</a></ListGroup.Item>
               <ListGroup.Item><i class="fa-brands fa-linkedin"></i> <a target={'_blank'} rel="noreferrer" href="https://www.linkedin.com/in/paula-huhu/"> LinkedIn Profile</a></ListGroup.Item>
-              <ListGroup.Item><i class="fa-brands fa-github"></i> <a target={'_blank'} rel="noreferrer" href="https://github.com/PaulaHh"> Github Profile</a></ListGroup.Item>
+              <ListGroup.Item><i class="fa-brands fa-github"></i> <a target={'_blank'} rel="noreferrer" href="https://github.com/PaulaHh/Paula-Huhu-CV/blob/main/README.md"> Github Profile</a></ListGroup.Item>
               <ListGroup.Item><i class="fa-solid fa-folder-open"></i> <a target={'_blank'} rel="noreferrer" href="https://www.hyperiondev.com/portfolio/125983/"> HyperionDev Portfolio</a></ListGroup.Item>
             </ListGroup>
           </Card.Text>
